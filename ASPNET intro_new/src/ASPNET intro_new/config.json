@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+    "DefaultConnection": {
+      "TripsConnectionString": "Server=csis4135musicspring16.scm.azurewebsites.net:443;Database=TripContext;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+	}
+}
